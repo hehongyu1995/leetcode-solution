@@ -1,4 +1,4 @@
-# 个人的leetcode解题记录
+# 个人的leetcode解题记录 (java)
 
 ## 已完成
 
@@ -10,3 +10,5 @@
 - [x] Level order 层级优先遍历 
 - [x] Maximum depth 最大深度
 - [x] Symmetric tree 对称树判断(循环方法+递归方法)
+- [x] Construct Binary Tree from Inorder and Postorder Traversal
+- [x] Construct Binary Tree from Preorder and Inorder Traversal
